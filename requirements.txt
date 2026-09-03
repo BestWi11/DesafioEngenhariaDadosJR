@@ -1,0 +1,8 @@
+# Dependências do Projeto Locadora de Veículos Analytics
+# O projeto utiliza a biblioteca padrão 'sqlite3' e 'csv' do Python.
+
+# Bônus: Testes automatizados
+pytest>=8.0.0
+
+# Bônus: Visualização de dados e gráficos
+matplotlib>=3.8.0
